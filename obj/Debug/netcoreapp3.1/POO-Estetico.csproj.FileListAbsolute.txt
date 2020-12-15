@@ -1,0 +1,13 @@
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades19\POO-Estetico\obj\Debug\netcoreapp3.1\POO-Estetico.csprojAssemblyReference.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades19\POO-Estetico\obj\Debug\netcoreapp3.1\POO-Estetico.AssemblyInfoInputs.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades19\POO-Estetico\obj\Debug\netcoreapp3.1\POO-Estetico.AssemblyInfo.cs
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades19\POO-Estetico\obj\Debug\netcoreapp3.1\POO-Estetico.csproj.CoreCompileInputs.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades19\POO-Estetico\bin\Debug\netcoreapp3.1\POO-Estetico.exe
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades19\POO-Estetico\bin\Debug\netcoreapp3.1\POO-Estetico.deps.json
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades19\POO-Estetico\bin\Debug\netcoreapp3.1\POO-Estetico.runtimeconfig.json
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades19\POO-Estetico\bin\Debug\netcoreapp3.1\POO-Estetico.runtimeconfig.dev.json
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades19\POO-Estetico\bin\Debug\netcoreapp3.1\POO-Estetico.dll
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades19\POO-Estetico\bin\Debug\netcoreapp3.1\POO-Estetico.pdb
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades19\POO-Estetico\obj\Debug\netcoreapp3.1\POO-Estetico.dll
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades19\POO-Estetico\obj\Debug\netcoreapp3.1\POO-Estetico.pdb
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades19\POO-Estetico\obj\Debug\netcoreapp3.1\POO-Estetico.genruntimeconfig.cache
